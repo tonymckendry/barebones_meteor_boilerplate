@@ -1,4 +1,4 @@
-## Groundwire
+## Barebones Meteor Boilerplate
 
 ### Developing Locally
 
@@ -22,19 +22,6 @@ This will run a development server at http://localhost:3000
 
 The biggest advantages Meteor gives us are the ability to build iOS and Android App Binaries using one Javascript codebase as well as it's tight DDP integration with MongoDB which allows for true
 real-time reactivity. It also comes with some nice stuff built in, like the user accounts and oAuth packages. Ultimately, it is the backbone of the entire App.
-
-### Frontend Layout and Design
-
-[**Material Design Guidelines**](https://material.io/guidelines/)
-
-[**Material-Ui**](http://www.material-ui.com/#/)
-
-Material-UI is our UI Kit, it has a ton of great stuff built in, and allows you to very easily theme and re-theme the color scheme of the whole app on the fly. Try to follow the Material design
-guidelines from Google as closely as possible and avoid doing lots of unnecessary customization to the MUI components
-
-[**React Layout Components**](https://github.com/rofrischmann/react-layout-components)
-
-These Flexbox-based components are the basic building blocks for the UI - they are very powerful and customizable.
 
 ### State Management
 
